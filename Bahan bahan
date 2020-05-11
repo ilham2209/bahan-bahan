@@ -8,3 +8,4 @@ add
 # Maintainer
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.havoc.maintainer=nama
+apt install libssl-dev
