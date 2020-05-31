@@ -11,3 +11,4 @@ PRODUCT_PROPERTY_OVERRIDES += \
 apt install libssl-dev
 eror sepolicy
 SELINUX_IGNORE_NEVERALLOWS := true
+CURRENT_BUILD_TYPE :=gapps
