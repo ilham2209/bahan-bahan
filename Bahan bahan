@@ -12,3 +12,20 @@ apt install libssl-dev
 eror sepolicy
 SELINUX_IGNORE_NEVERALLOWS := true
 CURRENT_BUILD_TYPE :=gapps
+
+
+Join nangis sourceforge
+
+1. Kontak bagas minta gabung
+
+2. Di terminal sftp <username>@frs.sourceforge.net
+
+3. cd /home/frs/project/nangis/
+
+4. mkdir <nama folder>, atau ls dulu liat²
+
+5. cd <nama folder>
+
+6. put out/target/blablabla.zip (alamat rom u)
+
+7. Dah lah tunggu
