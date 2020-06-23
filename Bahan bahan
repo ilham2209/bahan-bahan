@@ -29,3 +29,5 @@ Join nangis sourceforge
 6. put out/target/blablabla.zip (alamat rom u)
 
 7. Dah lah tunggu
+
+TARGET_KERNEL_CLANG_COMPILE := true
