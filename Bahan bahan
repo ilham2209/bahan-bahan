@@ -31,3 +31,10 @@ Join nangis sourceforge
 7. Dah lah tunggu
 
 TARGET_KERNEL_CLANG_COMPILE := true
+
+bring up
+cd device
+git checkout -b branch
+git push origin branch
+git add . && git commit
+git push
